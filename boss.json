@@ -4,6 +4,8 @@
 	"version": "1.0.0",
 	"homepage": "",
 	"mainsrc": "./",
-	"projects": [],
+	"projects": [
+	  "DelphiEcho.dproj"
+	],
 	"dependencies": {}
 }
